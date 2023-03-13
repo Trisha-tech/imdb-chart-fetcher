@@ -54,7 +54,7 @@ npm start 'https://www.imdb.com/india/top-rated-indian-movies' 12
 
 where 
 
-a) 'https://www.imdb.com/india/top-rated-indian-movies' is the url of the top rated indian movies.
+a) ```https://www.imdb.com/india/top-rated-indian-movies``` is the url of the top rated indian movies.
 
 b) 12 is the number of top movies you want to output (works only upto 50).
 
